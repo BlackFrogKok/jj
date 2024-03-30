@@ -1,0 +1,7 @@
+{
+    "name": "Prod 2024",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "flask",
+    "forwardPorts": [8000, 80, 5432],
+    "workspaceFolder": "/workspace",
+}
