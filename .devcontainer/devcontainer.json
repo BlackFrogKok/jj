@@ -3,5 +3,5 @@
     "dockerComposeFile": "docker-compose.yml",
     "service": "flask",
     "forwardPorts": [8000, 80, 5432],
-    "workspaceFolder": "/"
+    "workspaceFolder": "/.devcontainer"
 }
